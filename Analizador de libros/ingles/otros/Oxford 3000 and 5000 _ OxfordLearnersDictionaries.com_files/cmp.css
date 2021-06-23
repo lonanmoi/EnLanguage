@@ -1,0 +1,54 @@
+/*
+* 
+*   CMP UI
+* 
+*/
+/*----------------------------------------------------------------------------------------------------------------- */
+@media screen and (min-width: 768px) {
+  #qc-cmp2-ui::before,
+  #qc-cmp2-ui::after {
+    background: #1760bb;
+  }
+  #qc-cmp2-ui .qc-cmp2-summary-section img {
+    height: 30px;
+    width: 100%;
+  }
+  #qc-cmp2-ui .qc-cmp2-summary-section h2, 
+  #qc-cmp2-ui .qc-cmp2-summary-section p {
+    color: #fff;
+    text-align: justify;
+  }
+  #qc-cmp2-ui .qc-cmp2-summary-section p button[mode=link]{
+    color: #fff;
+    font-weight: bold;
+  }
+  #qc-cmp2-ui .qc-cmp2-footer {
+    margin: auto 0;
+  }
+  #qc-cmp2-ui .qc-cmp2-footer .qc-cmp2-summary-buttons button[mode=primary] {
+    background-color: #fff;
+    border: 2px solid #fff;
+    color: #368bd6;
+    font-weight: 600;
+  }
+  #qc-cmp2-ui .qc-cmp2-footer .qc-cmp2-summary-buttons button[mode=primary]:hover {
+    background-color: #1e4b73;
+    color: #fff;
+  }
+}
+
+#qc-cmp2-ui .qc-cmp2-summary-section h2 {
+    font-size: 24px;
+    line-height: normal;
+}
+
+@media screen and (max-width: 767px) {
+  #qc-cmp2-ui .qc-cmp2-summary-section img{
+    display: none;
+  }
+
+  #qc-cmp2-ui .qc-cmp2-footer .qc-cmp2-summary-buttons button[mode=secondary],
+  #qc-cmp2-ui .qc-cmp2-footer .qc-cmp2-summary-buttons button[mode=secondary]:hover {
+    color: #368bd6;
+  }
+}

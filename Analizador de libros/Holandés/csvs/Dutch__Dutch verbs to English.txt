@@ -1,0 +1,65 @@
+zijn[anki:play:q:0]	to be
+hebben[anki:play:q:0]	have
+weten[anki:play:q:0]	know
+gaan[anki:play:q:0]	go
+doen[anki:play:q:0]	do
+moeten[anki:play:q:0]	must
+kunnen[anki:play:q:0]	can
+zien[anki:play:q:0]	to see
+laten[anki:play:q:0]	leave
+komen[anki:play:q:0]	come
+leven[anki:play:q:0]	life
+zeggen[anki:play:q:0]	to say, speak
+willen[anki:play:q:0]	want
+zitten [anki:play:q:0]	to sit
+praten[anki:play:q:0]	to talk
+vinden[anki:play:q:0]	find
+helpen[anki:play:q:0]	help
+krijgen[anki:play:q:0]	to get
+blijven[anki:play:q:0]	to stay
+houden[anki:play:q:0]	hold
+kijken[anki:play:q:0]	look
+geven[anki:play:q:0]	give
+eten[anki:play:q:0]	food
+staan[anki:play:q:0]	stand
+vragen[anki:play:q:0]	ask
+nemen[anki:play:q:0]	to take
+denken[anki:play:q:0]	think
+halen[anki:play:q:0]	to pick up
+horen[anki:play:q:0]	hear
+wachten[anki:play:q:0]	to wait
+werken[anki:play:q:0]	work
+brengen[anki:play:q:0]	to bring
+spreken[anki:play:q:0]	speak
+vergeten[anki:play:q:0]	to forget
+pakken[anki:play:q:0]	catch
+beginnen[anki:play:q:0]	to begin
+gebeuren[anki:play:q:0]	to happen
+drinken[anki:play:q:0]	drink
+liggen[anki:play:q:0]	lie
+mogen[anki:play:q:0]	may
+rijden[anki:play:q:0]	to drive
+vechten[anki:play:q:0]	fight
+kopen[anki:play:q:0]	to buy
+begrijpen[anki:play:q:0]	to understand
+lezen[anki:play:q:0]	read
+verliezen[anki:play:q:0]	losses
+schrijven[anki:play:q:0]	write
+lachen[anki:play:q:0]	laugh
+lijken[anki:play:q:0]	to seem
+dragen[anki:play:q:0]	wear
+rennen[anki:play:q:0]	run
+leggen[anki:play:q:0]	to lay, to put
+sluiten[anki:play:q:0]	to close
+kiezen[anki:play:q:0]	choose
+ontvangen[anki:play:q:0]	receive
+wijzen[anki:play:q:0]	to point
+aankomen[anki:play:q:0]	to arrive / to put on waight
+fietsen [anki:play:q:0]	bicycles / to cycle
+zit [anki:play:q:0]	zitten ik zit in huis [anki:play:a:0] I'm sitting in my house
+praat[anki:play:q:0]	praten ik praat met opa [anki:play:a:0] I'm talking to grandpa
+gezeten[anki:play:q:0]	zitten ik heb gezeten I have sat
+gewacht[anki:play:q:0]	wachten ik heb gewacht [anki:play:a:0] I have waited
+gewerkt[anki:play:q:0]	werken ik heb gewerkt [anki:play:a:0] I have worked
+liep	lopen ik liep op de stoep naar de winkel [anki:play:a:0] I walked on the sidewalk to the store
+namen	nemen Wij namen allemaal een hapje van het brood [anki:play:a:0] We all took a bite of the bread.
